@@ -1,14 +1,12 @@
 # Esquisse
 
-Découvrez l’insolite, capturez le fugace .
-
-## Les Technologies : 
-
+Découvrez l’insolite, capturez le fugace.
 
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Description
+## Description / Les Technologies : 
+
 
 Création d'une application mobile avec Kotlin, repetorinat les lieux de bauté urbaine. Manipulation de point GPS avec Google Maps. Operations CRUD. 
 Front-end: Kotlin /  JectPAck Compose, Material 3 UI. Navigation et UX.
