@@ -22,6 +22,6 @@ Back-end: Kotlin / Spring boot.
 
 - [**Chloé PELERIN**](https://github.com/pchloe02) - *Développeuse*
 - [**Eliana YEPEZ**](https://github.com/Arteinsana7) - *Développeuse*
-- [**Nicolas PERROTIN **](https://github.com/nicotine189) - *Développeur*
-- [**Apoline DIAZ **](https://github.com/apolline-diaz) - *Développeusse*
-- [**Sam Lavazais **](https://github.com/SamLavazais) - *Développeur*
+- [**Nicolas PERROTIN**](https://github.com/nicotine189) - *Développeur*
+- [**Apoline DIAZ**](https://github.com/apolline-diaz) - *Développeusse*
+- [**Sam Lavazais**](https://github.com/SamLavazais) - *Développeur*
