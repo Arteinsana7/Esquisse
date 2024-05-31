@@ -1,29 +1,29 @@
 # Esquisse
 
-*Découvrez l’insolite, capturez le fugace ***.
+Découvrez l’insolite, capturez le fugace .
 
-<details>
-<summary style="font-size: 25px">Table des matières 📖</summary>
+## Les Technologies : 
 
-- [On Meuble](#on-meuble)
-  - [Description](#description)
-  - [Installation](#installation)
-    - [Démarrage serveur côté back](#démarrage-serveur-côté-back)
-      - [Les jointures dans Supabase](#les-jointures-dans-supabase)
-      - [Le login dans Supabase](#le-login-dans-supabase)
-      - [Thunder Client](#thunder-client)
-    - [Démarrage serveur côté front](#démarrage-serveur-côté-front)
-  - [Technologies](#technologies)
-  - [Contributeuses(-eurs)](#contributeuses-eurs)
 
-</details>
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Description
 
-Création d'une application mobile avec Kotlin et Jetpack Compose * (**par Lauréline Fleury**).
+Création d'une application mobile avec Kotlin, repetorinat les lieux de bauté urbaine. Manipulation de point GPS avec Google Maps. Operations CRUD. 
+Front-end: Kotlin /  JectPAck Compose, Material 3 UI. Navigation et UX.
+Back-end: Kotlin / Spring boot. 
+
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Installation
+
+
+## Contributeuses(-eurs)
+
+
+- [**Chloé PELERIN**](https://github.com/pchloe02) - *Développeuse*
+- [**Eliana YEPEZ**](https://github.com/Arteinsana7) - *Développeuse*
+- [**Nicolas PERROTIN **](https://github.com/nicotine189) - *Développeur*
+- [**Apoline DIAZ **](https://github.com/apolline-diaz) - *Développeusse*
+- [**Sam Lavazais **](https://github.com/SamLavazais) - *Développeur*
