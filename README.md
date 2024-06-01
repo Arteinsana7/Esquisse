@@ -8,9 +8,11 @@ Découvrez l’insolite, capturez le fugace.
 ## Description / Les Technologies : 
 
 
-Création d'une application mobile avec Kotlin, repetorinat les lieux de bauté urbaine. Manipulation de point GPS avec Google Maps. Operations CRUD. 
-Front-end: Kotlin /  JectPAck Compose, Material 3 UI. Navigation et UX.
-Back-end: Kotlin / Spring boot. 
+Création d'une application mobile avec Kotlin, répertoriant les lieux de beauté urbaine. Manipulation de points GPS avec Google Maps. Opérations CRUD.
+
+Front-end : Kotlin / Jetpack Compose, Material 3 UI. Navigation et UX.
+
+Back-end : Kotlin / Spring Boot.
 
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
